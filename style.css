@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+table{
+
+    border: 1px solid black;
+    
+    
+
+}
+th{
+    background-color: green;
+}
+.confirm{
+    background-color: green;
+}
+.delete{
+background-color: red;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
